@@ -1,6 +1,6 @@
-# Lista de Exercícios JavaScript - Avançado
+# Lista de Exercícios JavaScript
 
-Este repositório contém uma coleção de exercícios JavaScript focados em conceitos avançados de programação, incluindo estruturas de controle, funções, recursão e manipulação de arrays e objetos complexos.
+Este repositório contém uma coleção de exercícios JavaScript focados em conceitos intermediários de programação, incluindo estruturas de controle, funções, recursão e manipulação de arrays e objetos complexos.
 
 ## 📋 Índice
 
